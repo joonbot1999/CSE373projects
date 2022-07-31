@@ -1,0 +1,21 @@
+@media (min-width: 768px){
+  /* HEADER */ 
+  .font-header {
+    font-size: 5rem;
+  }
+
+  .font-main-hook {
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+
+  /* UTILITIES */
+  .container{
+    max-width: 50vw;
+  }
+
+ 
+  .box {
+    width: 50%;
+  }
+}
